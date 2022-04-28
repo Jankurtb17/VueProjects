@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Placello",
+      "sponsor": "Kubayashi-san",
+      "details": "Lorem ipsum",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "NIAS",
+      "sponsor": "Ito-san",
+      "details": "Lorem ipsum",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "name": "Jakarta Website",
+      "sponsor": "Taya-san",
+      "details": "Lorem ipsum",
+      "completed": false
+    }
+  ]
+}
